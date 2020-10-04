@@ -27,6 +27,7 @@ public class Prueba1Sistemas {
         int multi = mul * d;
            /*Quibo sebas que mas con el git jejejejejejejejejejejejejejejejje*/     
         
+        //dhsaoihdioahosidhaoidhasiodhoiasdhoasihdusaifhpisadvbdsoibv
         
     }
     
