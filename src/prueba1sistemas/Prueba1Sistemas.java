@@ -22,6 +22,12 @@ public class Prueba1Sistemas {
         int sum;
         sum = i + x;
         
+        int mul = 5;
+        int d = 3;
+        int multi = mul * d;
+           /*Quibo sebas que mas con el git jejejejejejejejejejejejejejejejje*/     
+        
+        
     }
     
 }
