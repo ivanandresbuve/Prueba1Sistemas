@@ -16,6 +16,12 @@ public class Prueba1Sistemas {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        int i = 5;
+        int x = 5;
+        int sum;
+        sum = i + x;
+        
     }
     
 }
